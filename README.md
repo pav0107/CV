@@ -15,7 +15,6 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 **Advertising/Copywriting** (2006 - 2021)  
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 - During my career I’ve had permanent roles and freelanced at a variety of companies, from big London ad agencies to design boutiques to branding studios to fundraising agencies to in-house creative teams.
 - I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
 - I’ve worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
@@ -40,12 +39,6 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
   - Think about the bigger picture of what I'm trying to do (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices)
   - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!)
 
-
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 
 ## Skills
