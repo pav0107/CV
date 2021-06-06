@@ -1,4 +1,4 @@
-## Pav Rao
+## Pav Rao (he/him)
 
 I’m a junior full stack developer looking for a role in a company whose products or services excite me; where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 16-week coding bootcamp.
 
