@@ -13,7 +13,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 ## Work Experience
 
-**Advertising/Copywriting** (2006 - 2021)  
+**Advertising Creative/Copywriter** (2006 - 2021)  
 
 - During my career I’ve had permanent roles and freelanced at a variety of companies, from big London ad agencies to design boutiques to branding studios to fundraising agencies to in-house creative teams.
 - I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
@@ -111,6 +111,6 @@ _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 
 - [LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
 - [Software engineer website](http://pavrao.io/)
-- [Copywriter/Advertising Creative portfolio](https://www.pavt.co.uk/)
+- [Advertising Creative/Copywriter portfolio](https://www.pavt.co.uk/)
 - [Stand-up website](http://pavrao.com/)
 
