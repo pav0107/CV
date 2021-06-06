@@ -38,7 +38,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
   - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices)
   - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!)  
   
-  (_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
+(_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
 
 
 
@@ -112,7 +112,7 @@ _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 ## Some handy links
 
 - [LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
-- [Software engineer website](http://pavrao.io/)
+- [Software engineer portfolio](http://pavrao.io/)
 - [Advertising Creative/Copywriter portfolio](https://www.pavt.co.uk/)
 - [Stand-up website](http://pavrao.com/)
 
