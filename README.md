@@ -93,7 +93,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 _Jonathan del Strother, Audioboom CTO_
 
 
-#### Professional references from my career as a copywriter [see them on LinkedIn (https://www.linkedin.com/in/pav-rao-0a46453b/)]: ####
+#### Professional references from my career as a copywriter [see them on LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/): ####
 
 “Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”  
 _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
