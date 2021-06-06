@@ -36,8 +36,9 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
   - Think on my feet.
   - Not be afraid to try something that might fail, dust myself off, learn lessons, then try again.
   - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices)
-  - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!)
-(_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
+  - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!)  
+  
+  (_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
 
 
 
