@@ -25,7 +25,6 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 - For a more detailed look please check out my LinkedIn profile.  
   
   
-
 **Stand-up comedy** (2011 onwards)  
 
 - I’ve gigged across the UK and in Europe to audiences of up to 400 people. 
