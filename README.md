@@ -31,8 +31,8 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 - In 2017 I was a semi-finalist in the BBC New Comedy Awards.
 - In 2016 I won the Bath Comedy Festival’s New Act of the Year Competition.
 - I believe much of what I do in stand-up will help in my career as a software engineer: 
-  - Find unusual and surprising connections.
   - Look at familiar things and situations from a fresh angle.
+  - Find unusual and surprising connections.
   - Think on my feet.
   - Not be afraid to try something that might fail, dust myself off, learn lessons, then try again.
   - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices)
