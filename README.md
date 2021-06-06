@@ -22,9 +22,9 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 - I’ve got experience in line-management, had autonomy over projects, had to work out solutions to problems as they occurred, and managed my own time to make sure concurrent projects got done. 
 - When I freelanced, I proactively approached clients to get work out for them.
 - As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. For more detail on the work I did, please view my LinkedIn profile as well as my portfolio website where I outline the business problem I was given and my approach to solving it.
-- For a more detailed look please check out my LinkedIn profile.
-
-
+- For a more detailed look please check out my LinkedIn profile.  
+  
+  
 
 **Stand-up comedy** (2011 onwards)  
 
@@ -100,21 +100,21 @@ Any cool stuff that makes you a super part of a software development team
 
 #### Character reference: ####
 
-“I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great problem solver and communicator, all of which are ideal attributes for a software developer.”
+“I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great problem solver and communicator, all of which are ideal attributes for a software developer.”  
 _Jonathan del Strother, Audioboom CTO_
 
 
 #### Professional references from my career as a copywriter, which can be seen on LinkedIn: ####
 
-“Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”
+“Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”  
 _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
-“I've worked with many writers over the years, few are as good as Pav. He combines razor sharp ideas, with a work ethic that many senior people could learn a great deal from. He's a rare talent. I couldn't recommend him highly enough.”
+“I've worked with many writers over the years, few are as good as Pav. He combines razor sharp ideas, with a work ethic that many senior people could learn a great deal from. He's a rare talent. I couldn't recommend him highly enough.”  
 _Peter Henshaw, Managing Director/ Digital Technologist / Cannes Lions Judge_
 
-“Pav is one of those creatives who you beg the creative director to put on your brief. He's charming to be around and full of great ideas. He has a solution to any obstacle you throw at him, no matter how ridiculous (and they can be crazy requests) but Pav always takes feedback in stride and works with you to develop the best work possible. I would 100% recommend Pav, he is a real asset to any team.”
+“Pav is one of those creatives who you beg the creative director to put on your brief. He's charming to be around and full of great ideas. He has a solution to any obstacle you throw at him, no matter how ridiculous (and they can be crazy requests) but Pav always takes feedback in stride and works with you to develop the best work possible. I would 100% recommend Pav, he is a real asset to any team.”  
 _Chiya Louie, Client Services Director, Head of Sport at Bright Partnership_
 
-“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”
+“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 
