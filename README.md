@@ -15,28 +15,28 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 **Advertising Creative/Copywriter** (2006 - 2021)  
 
-- During my career I’ve had permanent roles and freelanced at a variety of companies, from big London ad agencies to design boutiques to branding studios to fundraising agencies to in-house creative teams.
+- During my career I’ve had permanent roles and freelanced at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
 - I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
 - I’ve worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
-- I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients to get the best solution possible.
-- I’ve got experience in line-management, had autonomy over projects, worked out solutions to problems as they occurred, and managed my own time to make sure concurrent projects got done. 
+- To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
+- I’ve got experience in line-management, had autonomy over projects, worked out solutions to problems as they occurred, and managed my own schedule to make sure concurrent projects got completed on time. 
 - When I freelanced, I proactively approached clients to get work out for them.
-- As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. For more detail on the work I did, please view my LinkedIn profile as well as my portfolio website where I outline the business problem I was given and my approach to solving it.
-- For a more detailed look please check out my LinkedIn profile.  
-  
+- As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. 
+- For more detail on the work I did, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/) where I outline the business problem I was given and my approach to solving it.  
   
 **Stand-up comedy** (2011 onwards)  
 
 - I’ve gigged across the UK and in Europe to audiences of up to 400 people. 
 - In 2017 I was a semi-finalist in the BBC New Comedy Awards.
+  - You can see the set I did in the heats [here](https://vimeo.com/314071085). 
 - In 2016 I won the Bath Comedy Festival’s New Act of the Year Competition.
 - I believe much of what I do in stand-up will help in my career as a software engineer: 
   - Look at familiar things and situations from a fresh angle.
   - Find unusual and surprising connections.
   - Think on my feet.
   - Not be afraid to try something that might fail, dust myself off, learn lessons, then try again.
-  - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices)
-  - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!)  
+  - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices).
+  - Be able to take feedback (hopefully not quite as brutally given as the audience in the nightclub I played in Bournemouth!).  
   
 (_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
 
