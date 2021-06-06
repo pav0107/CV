@@ -1,6 +1,8 @@
-## Your Name
+## Pav Rao
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m a junior full stack developer looking for a role in a company whose products or services excite me; where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 16-week coding bootcamp.
+
+Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
 ## Projects
 
