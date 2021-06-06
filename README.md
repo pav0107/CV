@@ -83,8 +83,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Bristol (1998 - 2002)
+#### West Herts college (2004 - 2006)
+- PGDip Art-Direction/Copywriting (2005 - 2006)
+  - Known as the 'Watford' course within adland, this exclusive course has been taught by the same inimitable tutor for the last 30 years and has had its alumni in the creative departments of most of London's top ad agencies for the last few decades. 
+- PGDip Advertising (2004 - 2005)
+  - The more general advertising course I did when I was still trying to work out what I wanted to do.
 
+#### University of Bristol (1998 - 2002)
 - Physics with Astrophysics MSci
 
 ## References
