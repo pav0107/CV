@@ -2,7 +2,7 @@
 
 [PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-I’m a junior full stack developer looking for a role in a company whose products or services excite me; where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 12-week coding bootcamp.
+I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 12-week coding bootcamp.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
@@ -17,14 +17,14 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 **Advertising Creative/Copywriter** (2006 - 2021)  
 
-- During my career I’ve had permanent roles and freelanced at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
+- As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. 
+- During my career, I’ve had permanent roles and freelanced at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
 - I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
 - I’ve worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
 - To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
 - I’ve got experience in line-management, had autonomy over projects, worked out solutions to problems as they occurred, and managed my own schedule to make sure concurrent projects got completed on time. 
 - When I freelanced, I proactively approached clients to get work out for them.
-- As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. 
-- For more detail on the work I did, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/) where I outline the business problem I was given and my approach to solving it.  
+- For more information on my work, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/), where I outline the business problem I was given and my approach to solving it.  
   
 **Stand-up comedy** (2011 onwards)  
 
@@ -54,17 +54,15 @@ An example is a piece I worked on for a pharmaceutical client who had a stand at
 
 The brief was to create posters that went along a walkway to advertise the stand. I made the case that the key problem with this was that it was going to be almost impossible to get people's attention when they're busily trying to get around.
 
-I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I made the case for pushing this concept strongly with the client, which led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280).
+I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280).
 
 #### Communication
 
-During my career in advertising I've had plenty of experience engaging with, presenting to, and selling in ideas to clients. And as is the nature of the business, I also understand how to talk differently to different audiences depending on the product or service.
+Throughout my career in advertising I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, depending on the audience and product or service.
 
-I used to hate public speaking when I was younger, but after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
+It's impossible to produce great work without a solid working relationship with your colleagues and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy to help create work that's better than what any one person could have brought to the table.
 
-Getting the best work out also means communication with your peers and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy working with people with skillsets you don't have to create something amazing.
-
-I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
+When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
 
 #### Adaptability
 
