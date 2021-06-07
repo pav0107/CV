@@ -73,51 +73,51 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Initiative
 
-I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
+#### Problem solver
 
-They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed into the above.
+My academic background in maths and physics, combined with my career as an advertising creative and stand-up has meant I've spent the last 25 years knee-deep in problem-solving. 
 
-The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi.By approaching Campaign Against Arms Trade (CAAT) to see if we could help on any projects.
+An example is a piece I worked on for a pharmaceutical client who had a stand at 2013's ESC (European Society of Cardiology) Congress, regarded as the world’s premier conference specialising in the science, management and prevention of cardiovascular disease.
 
-You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0)
+The brief was to have posters along a walkway to advertise the stand. The problem with this was that getting people's attention when they're busily trying to get around was going to be almost impossible.
 
-
-#### Communication
-
-- due to stand-up, found presentations much easier.
-- Conducted workshops for Macmillan Cancer Support.
-- presented to lots of clients and peers
-- Presented workshops on copywriting for Macmillan Cancer Support, a 1,000+ people organisation.
-- given the breadth of clients I've worked for, I know how to communicate to different audiences.
-
-
-#### Fast learner
-
-- Hopefully something about Makers here as I should be in a position to pick up new tech quickly
-
-
-#### problem solver/ analytical thinker
-
-- My academic background is in maths and physics, combined with my career as an advertising creative and stand-up has meant I've spent the last 25 years knee-deep in problem-solving.
+I thought a better idea was to use live illustration. This led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280)
 
 
 #### Adaptable
 
-- In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture. I had precisely zero experience of making documentary films. I threw myself into it, doing tonnes of research, creating a narrative arc, and also made sure I had the right questions ready for interviews I would conduct. I had precisely zero experience in conducting interviews. I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). And it all went well. Phew.
+In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture. I had precisely zero experience of making documentary films. 
 
-#### Good collaborator/ team player
+I threw myself into it, doing tonnes of research, creating a narrative arc, and also made sure I had the right questions ready for interviews I would conduct. I had precisely zero experience in conducting interviews. 
 
-- To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
+I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). And it all went well. Phew. I then did a rough cut of the interviews and pieced them together to fit the narrative arc.
 
-#### Attention to detail
+#### Initiative
 
-- As a copywriter, it was my job to pay attention to the details. Every word, every little bit of punctuation matters.
+I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
 
-#### Creative
+They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed.
 
-- Stand-up, advertising experience
+The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi.
+
+You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0)
+
+#### Communication
+
+Through a career in advertising, and through client presentations I understand how to engage with clients and sell in an idea. An as is the nature of the business, I also understand how to talk to a wider audience, and lots of different types of audiences at that.
+
+I used to hate public speaking when I was younger, but somehow after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
+
+Getting the best work out also means communication with your peers and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy working with people with skillsets you don't have to create something amazing.
+
+I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
+
+
+#### Fast learner
+
+Hopefully something about Makers here as I should be in a position to pick up new tech quickly
+
 
 
 ## EDUCATION
