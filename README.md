@@ -58,9 +58,24 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 #### Initiative
 
-- I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
+I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
 
 They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed into the above.
 
@@ -104,32 +119,6 @@ You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-
 
 - Stand-up, advertising experience
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## EDUCATION
 
