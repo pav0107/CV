@@ -56,6 +56,15 @@ The brief was to have posters along a walkway to advertise the stand. The proble
 
 I thought a better idea was to use live illustration. This led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280)
 
+#### Communication
+
+Through a career in advertising, and through client presentations I understand how to engage with clients and sell in an idea. An as is the nature of the business, I also understand how to talk to a wider audience, and lots of different types of audiences at that.
+
+I used to hate public speaking when I was younger, but somehow after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
+
+Getting the best work out also means communication with your peers and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy working with people with skillsets you don't have to create something amazing.
+
+I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
 
 #### Adaptable
 
@@ -75,15 +84,6 @@ The stunt took place outside the Houses of Parliament and featured protestors fr
 
 You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0)
 
-#### Communication
-
-Through a career in advertising, and through client presentations I understand how to engage with clients and sell in an idea. An as is the nature of the business, I also understand how to talk to a wider audience, and lots of different types of audiences at that.
-
-I used to hate public speaking when I was younger, but somehow after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
-
-Getting the best work out also means communication with your peers and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy working with people with skillsets you don't have to create something amazing.
-
-I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
 
 #### Fast learner
 
