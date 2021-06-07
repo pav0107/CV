@@ -46,48 +46,44 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 ## SKILLS
 
-#### Problem solver
+#### Problem-solving
 
 My academic background in maths and physics, combined with my careers as an advertising creative and stand-up comedian means I've spent the last 25 years knee-deep in problem-solving. 
 
 An example is a piece I worked on for a pharmaceutical client who had a stand at 2013's ESC (European Society of Cardiology) Congress, regarded as the world’s premier conference specialising in the science, management and prevention of cardiovascular disease.
 
-The brief was to have posters along a walkway to advertise the stand. The problem with this was that getting people's attention when they're busily trying to get around was going to be almost impossible.
+The brief was to create posters that went along a walkway to advertise the stand. I made the case that the key problem with this was that it was going to be almost impossible to get people's attention when they're busily trying to get around.
 
-I thought a better idea was to use live illustration. This led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280)
+I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I made the case for pushing this concept strongly with the client, which led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280).
 
 #### Communication
 
-Through a career in advertising, and through client presentations I understand how to engage with clients and sell in an idea. An as is the nature of the business, I also understand how to talk to a wider audience, and lots of different types of audiences at that.
+During my career in advertising I've had plenty of experience engaging with, presenting to, and selling in ideas to clients. And as is the nature of the business, I also understand how to talk differently to different audiences depending on the product or service.
 
-I used to hate public speaking when I was younger, but somehow after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
+I used to hate public speaking when I was younger, but after trying to make hundreds of people laugh, it doesn't seem like anything to be scared of any more. 
 
 Getting the best work out also means communication with your peers and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy working with people with skillsets you don't have to create something amazing.
 
 I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
 
-#### Adaptable
+#### Adaptability
 
-In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture. I had precisely zero experience of making documentary films. 
+In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture for human rights charity Reprieve. I had precisely zero experience of making documentary films. 
 
-I threw myself into it, doing tonnes of research, creating a narrative arc, and also made sure I had the right questions ready for interviews I would conduct. I had precisely zero experience in conducting interviews. 
+I threw myself into it, doing tonnes of research and creating a structure to tell a compelling story. I also made sure I'd crafted the right questions for people I would interview. I had precisely zero experience in conducting interviews. 
 
-I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). And it all went well. Phew. I then did a rough cut of the interviews and pieced them together to fit the narrative arc.
+I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). Thankfully, the interviews went really well, I had tonnes of great material to work with and my boss was happy. 
 
 #### Initiative
 
-I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
+I'm always looking to be pro-active. As an example, I approached Campaign Against Arms Trade (CAAT) with the art-director I was working with, to see if we could help on any projects. They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed.
 
-They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed.
-
-The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi.
-
-You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0)
+The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi. You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0).
 
 
-#### Fast learner
+#### Fast learning
 
-Hopefully something about Makers here as I should be in a position to pick up new tech quickly
+Hopefully something about Makers here as I should be in a position to pick up new tech quickly.
 
 
 ## EDUCATION
