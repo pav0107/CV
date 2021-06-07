@@ -1,19 +1,19 @@
-# Pav Rao (he/him)
+# PAV RAO (he/him)
 
-Projects | Work Experience | Skills | Education | References | Links
+[PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Other-Sites)
 
 I’m a junior full stack developer looking for a role in a company whose products or services excite me; where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 12-week coding bootcamp.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
-## Projects
+## PROJECTS
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## WORK EXPERIENCE
 
 **Advertising Creative/Copywriter** (2006 - 2021)  
 
@@ -44,7 +44,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 
 
-## Skills
+## SKILLS
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -131,7 +131,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## EDUCATION
 
 #### Makers Academy (June - Sep 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -151,7 +151,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Bristol (1998 - 2002)
 - Physics with Astrophysics MSci
 
-## References
+## REFERENCES
 
 #### Character reference: ####
 
@@ -173,7 +173,7 @@ _Chiya Louie, Client Services Director, Head of Sport at Bright Partnership_
 “Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 
-## Some handy links
+## OTHER SITES
 
 - [LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
 - [Software engineer portfolio](http://pavrao.io/)
