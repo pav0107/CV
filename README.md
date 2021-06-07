@@ -1,6 +1,6 @@
 # PAV RAO (he/him)
 
-[PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Other-Sites)
+[PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
 I’m a junior full stack developer looking for a role in a company whose products or services excite me; where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 12-week coding bootcamp.
 
@@ -45,34 +45,6 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 
 ## SKILLS
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 
 #### Problem solver
 
@@ -162,7 +134,7 @@ _Chiya Louie, Client Services Director, Head of Sport at Bright Partnership_
 “Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 
-## OTHER SITES
+## LINKS
 
 - [LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
 - [Software engineer portfolio](http://pavrao.io/)
