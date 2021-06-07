@@ -48,7 +48,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 #### Problem solver
 
-My academic background in maths and physics, combined with my career as an advertising creative and stand-up has meant I've spent the last 25 years knee-deep in problem-solving. 
+My academic background in maths and physics, combined with my careers as an advertising creative and stand-up comedian means I've spent the last 25 years knee-deep in problem-solving. 
 
 An example is a piece I worked on for a pharmaceutical client who had a stand at 2013's ESC (European Society of Cardiology) Congress, regarded as the world’s premier conference specialising in the science, management and prevention of cardiovascular disease.
 
@@ -85,11 +85,9 @@ Getting the best work out also means communication with your peers and boss. I'v
 
 I've also presented workshops on copywriting when I worked at Macmillan Cancer Support, an organisation of over 1,000 people, and consistently received excellent feedback.
 
-
 #### Fast learner
 
 Hopefully something about Makers here as I should be in a position to pick up new tech quickly
-
 
 
 ## EDUCATION
