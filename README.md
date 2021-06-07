@@ -56,6 +56,63 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
+#### Initiative
+
+- I'm always looking to be pro-active. As an example I approached Campaign Against Arms Trade (CAAT) early in 2013, with art-director Pablo Videla, to see if we could help on any projects.
+
+They asked if we could come up with a stunt for their Global Day of Action on Military Spending on 15th April. We provided them with a selection of ideas, one of which they developed into the above.
+
+The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi.By approaching Campaign Against Arms Trade (CAAT) to see if we could help on any projects.
+
+You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0)
+
+
+#### Communication
+
+- due to stand-up, found presentations much easier.
+- Conducted workshops for Macmillan Cancer Support.
+- presented to lots of clients and peers
+- Presented workshops on copywriting for Macmillan Cancer Support, a 1,000+ people organisation.
+- given the breadth of clients I've worked for, I know how to communicate to different audiences.
+
+
+#### Fast learner
+
+- Hopefully something about Makers here as I should be in a position to pick up new tech quickly
+
+
+#### problem solver/ analytical thinker
+
+- My academic background is in maths and physics, combined with my career as an advertising creative and stand-up has meant I've spent the last 25 years knee-deep in problem-solving.
+
+
+#### Adaptable
+
+- In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture. I had precisely zero experience of making documentary films. I threw myself into it, doing tonnes of research, creating a narrative arc, and also made sure I had the right questions ready for interviews I would conduct. I had precisely zero experience in conducting interviews. I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). And it all went well. Phew.
+
+#### Good collaborator/ team player
+
+- To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
+
+#### Attention to detail
+
+- As a copywriter, it was my job to pay attention to the details. Every word, every little bit of punctuation matters.
+
+#### Creative
+
+- Stand-up, advertising experience
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
 
 #### This Skill
 
