@@ -80,7 +80,7 @@ The stunt took place outside the Houses of Parliament and featured protestors fr
 
 #### Attention to detail
 
-As a copywriter I was used to sweating over, not just how sentences were phrased, but individual words too because I knew the difference it made. 
+As a copywriter I was used to sweating over not just how sentences were phrased, but individual words too, because I knew the difference it made. 
 
 As a stand-up I got instant feedback to the choices I made in how I wanted to get an idea across. I because acutely aware that even the way I intonated a _single_ word made a huge difference, so I'm used to paying incredibly close attention to the smallest of details.
 
