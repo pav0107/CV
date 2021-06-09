@@ -78,6 +78,15 @@ I'm always looking to be pro-active. As an example, I approached Campaign Agains
 
 The stunt took place outside the Houses of Parliament and featured protestors from CAAT, CND, Disarm DSEi and Pax Christi. You can see a video of the event [here](https://www.youtube.com/watch?v=e_1FtEY-gp0).
 
+#### Attention to detail
+
+As a copywriter I was used to sweating over, not just how sentences were phrased, but individual words too because I knew the difference it made. 
+
+As a stand-up I got instant feedback to the choices I made in how I wanted to get an idea across. I because acutely aware that even the way I intonated a _single_ word made a huge difference, so I'm used to paying incredibly close attention to the smallest of details.
+
+#### Big picture thinking
+
+In both advertising and stand-up everything started with the big idea. I knew that time spent properly here made the biggest difference down the line. I could get past the obvious thoughts and into more original territory. Details are important too, but the phrase 'polishing a turd' is well-known in adland for very good reason.
 
 #### Fast learning
 
