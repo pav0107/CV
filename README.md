@@ -88,9 +88,9 @@ In stand-up, feedback is instant and crystal clear. I became acutely aware that 
 
 In both advertising and stand-up everything started with the big idea. I knew that time spent properly here made the biggest difference down the line. I could get past the obvious thoughts and into more original,fertile territory. Details are vital, but the phrase 'polishing a turd' is well-known in adland for a reason.
 
-#### Fast learning
+<!-- #### Fast learning
 
-Hopefully something about Makers here as I should be in a position to pick up new tech quickly.
+Hopefully something about Makers here as I should be in a position to pick up new tech quickly. -->
 
 
 ## EDUCATION
