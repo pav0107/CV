@@ -54,7 +54,7 @@ An example is a piece I worked on for a pharmaceutical client who had a stand at
 
 The brief was to create posters that went along a walkway to advertise the stand. I made the case that the key problem with this was that it was going to be almost impossible to get people's attention when they're busily trying to get around.
 
-I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured beautifully [here](https://vimeo.com/75317280).
+I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://vimeo.com/75317280).
 
 #### Communication
 
@@ -68,7 +68,7 @@ When I worked at Macmillan Cancer Support, I presented workshops on copywriting 
 
 In my first job as an advertising creative/writer I was tasked with leading in the creation of a documentary on music torture for human rights charity Reprieve. I had precisely zero experience of making documentary films. 
 
-I threw myself into it, doing tonnes of research and creating a structure to tell a compelling story. I also made sure I'd crafted the right questions for people I would interview. I had precisely zero experience in conducting interviews. 
+I threw myself into it, doing tonnes of research and creating a structure to tell a compelling story. I also made sure I crafted the right questions for people I would interview. I had precisely zero experience in conducting interviews. 
 
 I ended up interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant psychiatrist at the Medical Foundation for the Care of Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt (former guard at Guantanamo Bay). Thankfully, the interviews went really well, I had tonnes of great material to work with and my boss was happy. 
 
@@ -82,11 +82,11 @@ The stunt took place outside the Houses of Parliament and featured protestors fr
 
 As a copywriter I was used to sweating over not just how sentences were phrased, but individual words too, because I knew the difference it made. 
 
-In stand-up, feedback is instant and crystal clear. I became acutely aware that even the way I intonated a _single_ word made a huge difference, so I'm used to paying incredibly close attention to the smallest of details.
+In stand-up, feedback is instant and crystal clear. I became acutely aware that even the way I intonated a _single_ word meant the diffence between getting a laugh and not, so I'm used to paying incredibly close attention to even the smallest of details.
 
 #### Big picture thinking
 
-In both advertising and stand-up everything started with the big idea. I knew that time spent properly here made the biggest difference down the line. I could get past the obvious thoughts and into more original,fertile territory. Details are vital, but the phrase 'polishing a turd' is well-known in adland for a reason.
+In both advertising and stand-up everything started with the big idea. I knew that time spent properly here made the biggest difference down the line. I could get past the obvious thoughts and into more original, fertile territory. Details are vital, but the phrase 'polishing a turd' is well-known in adland for a reason.
 
 <!-- #### Fast learning
 
