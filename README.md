@@ -176,10 +176,10 @@ Hopefully something about Makers here as I should be in a position to pick up ne
 
 #### Makers Academy (June - Sep 2021)
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
+<!-- - you might also mention aspects some other skills/knowledge listed below:  -->
 - Extenstive use of both pair and mob-programming to solve problems.
 - Used documentation, googling, Stack Overflow and error stack traces to debug.
 - Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
-<!-- - you might also mention aspects some other skills/knowledge listed below:  -->
 - OOP, TDD, MVC
 - Agile/XP
 - JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Capybara
