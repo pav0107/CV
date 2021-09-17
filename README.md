@@ -18,84 +18,78 @@ Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independ
 The following feedback was given after being set a tech test and having my process observed for 45 mins.
 
 **On following TDD:**
-```
-"You have based your tests on behaviours in order to keep your code
-properly decoupled from the tests and this also meant that the tests were
-client-oriented with the acceptance criteria properly encoded in the
-algorithm."
-```
-```
-Your test progression made logical sense and you used it in order to make
-incremental transformations to the code so that with each specific test, the
-solution becomes more general."
-```
-```
-"You followed the RGR cycle really closely."
-```
+
+> "You have based your tests on behaviours in order to keep your code
+> properly decoupled from the tests and this also meant that the tests were
+> client-oriented with the acceptance criteria properly encoded in the
+> algorithm."
+
+> "Your test progression made logical sense and you used it in order to make
+> incremental transformations to the code so that with each specific test, the
+> solution becomes more general."
+
+> "You followed the RGR cycle really closely."
+
 **On programming fluently:**
-```
-"You are very fluent with Ruby and RSpec syntax and language
-constructs. You are also aware of built-in methods in Ruby and how to use them
-correctly."
-```
+
+> "You are very fluent with Ruby and RSpec syntax and language
+> constructs. You are also aware of built-in methods in Ruby and how to use them
+> correctly."
+
 **On debugging:**
-```
-"You have read failing test messages carefully and used the
-information from RSpec’s failing tests well to determine what could be causing
-problems and this helped you to make well-informed changes to fix bugs."
-```
-```
-"You allowed yourself to look up documentation quickly when you
-were not sure of syntax which allowed you to make efficient use of your
-resources."
-```
+
+> "You have read failing test messages carefully and used the
+> information from RSpec’s failing tests well to determine what could be causing
+> problems and this helped you to make well-informed changes to fix bugs."
+
+> "You allowed yourself to look up documentation quickly when you
+> were not sure of syntax which allowed you to make efficient use of your
+> resources."
+
 **On modelling:**
-```
-"You chose to model your solution as a single method in a class. This
-was a simple enough place to start and this allowed for enough functionality
-to handle the entire problem, without over-engineering the solution. This
-meant that you could extract methods as and when needed to adhere to the
-single-responsibility principle."
-```
-```
-"Your algorithm made logical sense and you were making great progress through
-the exercise."
-```
+
+> "You chose to model your solution as a single method in a class. This
+> was a simple enough place to start and this allowed for enough functionality
+> to handle the entire problem, without over-engineering the solution. This
+> meant that you could extract methods as and when needed to adhere to the
+> single-responsibility principle."
+
+> "Your algorithm made logical sense and you were making great progress through
+> the exercise."
+
 **On having a methodical approach to solving problems:**
-```
-"You adhered to the red-green-refactor cycle by maintaining a
-behaviour-first approach. You also prioritised the core and simpler cases over
-the edge cases and more complex scenarios, allowing you to provide the client
-with immediate value. Your tests also progressed logically, giving your
-development cycle a sensible direction."
-```
-```
-"You used research really well in your development process so that
-you were able to avoid adding unnecessary bugs to the code."
-```
+
+> "You adhered to the red-green-refactor cycle by maintaining a
+> behaviour-first approach. You also prioritised the core and simpler cases over
+> the edge cases and more complex scenarios, allowing you to provide the client
+> with immediate value. Your tests also progressed logically, giving your
+> development cycle a sensible direction."
+
+> "You used research really well in your development process so that
+> you were able to avoid adding unnecessary bugs to the code."
+
 **On using an agile development process:**
-```
-"You have clarified well what the requirements are for the system and
-asked good questions about the main requirements and some common edge cases.
-The question about the dictionary was a logical and insightful question given
-the problem domain."
-```
+
+> You have clarified well what the requirements are for the system and
+> asked good questions about the main requirements and some common edge cases.
+> The question about the dictionary was a logical and insightful question given
+> the problem domain."
+
 **On writing code that's easy to change:**
-```
-"You are once again using Git commits regularly when tests pass which
-ensures that you take advantage of having previous working versions to fall
-back on."
-```
-```
-"Your tests are again sufficiently decoupled from the code by making use of
-tests based on the overall behaviours as were discussed by the client."
-```
+
+> "You are once again using Git commits regularly when tests pass which
+> ensures that you take advantage of having previous working versions to fall
+> back on."
+
+> "Your tests are again sufficiently decoupled from the code by making use of
+> tests based on the overall behaviours as were discussed by the client."
+
 **On justifying the way I work:**
-```
-"You vocalised yourself quite well. Your comments were audible and
-you provided valid justifications for your steps. You gave a really good
-insight as to what your thought process was as you were making decisions."
-```
+
+> "You vocalised yourself quite well. Your comments were audible and
+> you provided valid justifications for your steps. You gave a really good
+> insight as to what your thought process was as you were making decisions."
+
 
 
 ## WORK EXPERIENCE
@@ -202,23 +196,23 @@ Hopefully something about Makers here as I should be in a position to pick up ne
 
 #### Character reference: ####
 
-“I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great problem solver and communicator, all of which are ideal attributes for a software developer.”  
-_Jonathan del Strother, Audioboom CTO_
+> “I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great > problem solver and communicator, all of which are ideal attributes for a software developer.”  
+> _Jonathan del Strother, Audioboom CTO_
 
 
 #### Professional references from my career as an advertising creative/copywriter ([see them on LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)): ####
 
-“Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”  
-_Julia Lalla-Maharajh OBE, Founder of Orchid Project_
+> “Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened > to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a > daunting process of taking the creatives through to reality. Thanks Pav!”  
+> _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
-“I've worked with many writers over the years, few are as good as Pav. He combines razor sharp ideas, with a work ethic that many senior people could learn a great deal from. He's a rare talent. I couldn't recommend him highly enough.”  
-_Peter Henshaw, Managing Director/ Digital Technologist / Cannes Lions Judge_
+> “I've worked with many writers over the years, few are as good as Pav. He combines razor sharp ideas, with a work ethic that many senior > people could learn a great deal from. He's a rare talent. I couldn't recommend him highly enough.”  
+> _Peter Henshaw, Managing Director/ Digital Technologist / Cannes Lions Judge_
 
-“Pav is one of those creatives who you beg the creative director to put on your brief. He's charming to be around and full of great ideas. He has a solution to any obstacle you throw at him, no matter how ridiculous (and they can be crazy requests) but Pav always takes feedback in stride and works with you to develop the best work possible. I would 100% recommend Pav, he is a real asset to any team.”  
-_Chiya Louie, Client Services Director, Head of Sport at Bright Partnership_
+>“Pav is one of those creatives who you beg the creative director to put on your brief. He's charming to be around and full of great ideas. > He has a solution to any obstacle you throw at him, no matter how ridiculous (and they can be crazy requests) but Pav always takes > feedback in stride and works with you to develop the best work possible. I would 100% recommend Pav, he is a real asset to any team.”  
+> _Chiya Louie, Client Services Director, Head of Sport at Bright Partnership_
 
-“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
-_Karin Weatherup, Supporter insight digger and creative director - fundraising_
+>“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are > busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
+> _Karin Weatherup, Supporter insight digger and creative director - fundraising_
 
 ## LINKS
 
