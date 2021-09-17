@@ -10,8 +10,93 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Key-J**            | A webapp to do help DJs, musicians and music enthusiasts find information about songs and compare them | React, Node, Express, Jest, React Testing Library, Puppeteer |
+| **Makers BnB** | An Airbnb clone | Ruby, RSpec              |
+
+## CODE REVIEWS
+Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
+The following feedback was given after being set a tech test and having my process observed for 45 mins.
+
+**On following TDD:**
+```
+"You have based your tests on behaviours in order to keep your code
+properly decoupled from the tests and this also meant that the tests were
+client-oriented with the acceptance criteria properly encoded in the
+algorithm."
+```
+```
+Your test progression made logical sense and you used it in order to make
+incremental transformations to the code so that with each specific test, the
+solution becomes more general."
+```
+```
+"You followed the RGR cycle really closely."
+```
+**On programming fluently:**
+```
+"You are very fluent with Ruby and RSpec syntax and language
+constructs. You are also aware of built-in methods in Ruby and how to use them
+correctly."
+```
+**On debugging:**
+```
+"You have read failing test messages carefully and used the
+information from RSpec’s failing tests well to determine what could be causing
+problems and this helped you to make well-informed changes to fix bugs."
+```
+```
+"You allowed yourself to look up documentation quickly when you
+were not sure of syntax which allowed you to make efficient use of your
+resources."
+```
+**On modelling:**
+```
+"You chose to model your solution as a single method in a class. This
+was a simple enough place to start and this allowed for enough functionality
+to handle the entire problem, without over-engineering the solution. This
+meant that you could extract methods as and when needed to adhere to the
+single-responsibility principle."
+```
+```
+"Your algorithm made logical sense and you were making great progress through
+the exercise."
+```
+**On having a methodical approach to solving problems:**
+```
+"You adhered to the red-green-refactor cycle by maintaining a
+behaviour-first approach. You also prioritised the core and simpler cases over
+the edge cases and more complex scenarios, allowing you to provide the client
+with immediate value. Your tests also progressed logically, giving your
+development cycle a sensible direction."
+```
+```
+"You used research really well in your development process so that
+you were able to avoid adding unnecessary bugs to the code."
+```
+**On using an agile development process:**
+```
+"You have clarified well what the requirements are for the system and
+asked good questions about the main requirements and some common edge cases.
+The question about the dictionary was a logical and insightful question given
+the problem domain."
+```
+**On writing code that's easy to change:**
+```
+"You are once again using Git commits regularly when tests pass which
+ensures that you take advantage of having previous working versions to fall
+back on."
+```
+```
+"Your tests are again sufficiently decoupled from the code by making use of
+tests based on the overall behaviours as were discussed by the client."
+```
+**On justifying the way I work:**
+```
+"You vocalised yourself quite well. Your comments were audible and
+you provided valid justifications for your steps. You gave a really good
+insight as to what your thought process was as you were making decisions."
+```
+
 
 ## WORK EXPERIENCE
 
