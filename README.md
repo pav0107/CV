@@ -28,8 +28,6 @@ The following feedback was given after being set a tech test and having my proce
 > incremental transformations to the code so that with each specific test, the
 > solution becomes more general."
 
-> "You followed the RGR cycle really closely."
-
 **On programming fluently:**
 
 > "You are very fluent with Ruby and RSpec syntax and language
