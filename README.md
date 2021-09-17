@@ -2,7 +2,7 @@
 
 [PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I’m currently on at Makers Academy, an intensive 12-week coding bootcamp.
+I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I enjoyed at Makers, an intensive 16-week coding bootcamp.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
