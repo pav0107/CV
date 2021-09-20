@@ -129,9 +129,9 @@ My academic background in maths and physics, combined with my careers as an adve
 
 An example is a piece I worked on for a pharmaceutical client who had a stand at 2013's ESC (European Society of Cardiology) Congress, regarded as the world’s premier conference specialising in the science, management and prevention of cardiovascular disease.
 
-The brief was to create posters that went along a walkway to advertise the stand. I made the case that the key problem with this was that it was going to be almost impossible to get people's attention when they're busily trying to get around.
+The brief was to create posters that went along a walkway to advertise the stand. I believe that one of the key aspects of problem-solving is being clear about what are facts, and what are assumptions. I made the case that the main problem with what we were being asked was that it was going to be almost impossible to get people's attention when they were busily trying to get around.
 
-I thought a better idea, to get around this, but which at the time went beyond the scope of the brief, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://vimeo.com/75317280).
+I felt the facts were that we needed to advertise the stand and that the space that was bought was along the walkway; the assumption was that we had to produce static posters. I thought a better idea, to solve our key hurdle, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://vimeo.com/75317280).
 
 #### Communication
 
