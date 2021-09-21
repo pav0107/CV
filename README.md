@@ -1,17 +1,18 @@
 # PAV RAO (he/him)
 
-[PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
+[KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I enjoyed at Makers, an intensive 16-week coding bootcamp.
+Hello. I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I recently enjoyed at Makers, an intensive 16-week coding bootcamp.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
-## PROJECTS
+## KEY PROJECTS
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Key-J**            | A webapp to do help DJs, musicians and music enthusiasts find information about songs and compare them | React, Node, Express, Jest, React Testing Library, Puppeteer |
 | **Makers BnB** | An Airbnb clone | Ruby, RSpec              |
+| **Breakout** | A fun game from my childhood | HTML, CSS and JavaScript, but this was mostly about HTML Canvas |
 
 ## CODE REVIEWS
 Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
@@ -69,9 +70,7 @@ The following feedback was given after being set a tech test and having my proce
 **On using an agile development process:**
 
 > You have clarified well what the requirements are for the system and
-> asked good questions about the main requirements and some common edge cases.
-> The question about the dictionary was a logical and insightful question given
-> the problem domain."
+> asked good questions about the main requirements and some common edge cases."
 
 **On writing code that's easy to change:**
 
@@ -95,19 +94,19 @@ The following feedback was given after being set a tech test and having my proce
 **Advertising Creative/Copywriter** (2006 - 2021)  
 
 - As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. 
-- During my career, I’ve had permanent roles and freelanced at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
+- During my career, I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
 - I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
 - I’ve worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
 - To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
 - I’ve got experience in line-management, had autonomy over projects, worked out solutions to problems as they occurred, and managed my own schedule to make sure concurrent projects got completed on time. 
 - When I freelanced, I proactively approached clients to get work out for them.
-- For more information on my work, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/), where I outline the business problem I was given and my approach to solving it.  
+- For more information on my work, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/), where I've outlined the business problem I was given and my approach to solving it.  
   
 **Stand-up comedy** (2011 onwards)  
 
 - I’ve gigged across the UK and in Europe to audiences of up to 400 people. 
 - In 2017 I was a semi-finalist in the BBC New Comedy Awards.
-  - You can see the set I did in the heats [here](https://vimeo.com/314071085). 
+  - You can see the set I did in the heats on my [stand-up site](http://pavrao.com/). 
 - In 2016 I won the Bath Comedy Festival’s New Act of the Year Competition.
 - I believe much of what I do in stand-up will help in my career as a software engineer: 
   - Look at familiar things and situations from a fresh angle.
@@ -117,7 +116,7 @@ The following feedback was given after being set a tech test and having my proce
   - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices).
   - Be able to take feedback (hopefully not given quite as brutally as by the audience in the nightclub I played in Bournemouth!).  
   
-(_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll very much just be as a hobby_)
+(_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll be just as a hobby_)
 
 
 
@@ -131,7 +130,7 @@ An example is a piece I worked on for a pharmaceutical client who had a stand at
 
 The brief was to create posters that went along a walkway to advertise the stand. I believe that one of the key aspects of problem-solving is being clear about what are facts, and what are assumptions. I made the case that the main problem with what we were being asked was that it was going to be almost impossible to get people's attention when they were busily trying to get around.
 
-I felt the facts were that we needed to advertise the stand and that the space that was bought was along the walkway; the assumption was that we had to produce static posters. I thought a better idea, to solve our key hurdle, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://vimeo.com/75317280).
+I felt the facts were that we needed to advertise the stand and that the space that was bought was along the walkway; the assumption was that we had to produce static posters. I thought a better idea, to solve our key hurdle, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://www.pavt.co.uk/Healthcare).
 
 #### Communication
 
