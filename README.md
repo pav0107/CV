@@ -174,19 +174,20 @@ Hopefully something about Makers here as I should be in a position to pick up ne
 #### Makers Academy (June - Sep 2021)
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
 <!-- - you might also mention aspects some other skills/knowledge listed below:  -->
-- Extenstive use of both pair and mob-programming to solve problems.
-- Used documentation, googling, Stack Overflow and error stack traces to debug.
-- Frequently used pairing in order to problem solve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC
-- Agile/XP
-- JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Capybara
-- Jest, Jasmine, React Testing Library, RSpec
+- 16-week coding bootcamp that has trained over 1700 people and have their alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, among others)
+- The course creates flexible and responsive engineers who can adapt and pick up new tech quickly.
+- There's extenstive use of both pair and mob-programming to solve problems.
+- I used a myriad of different techniques to solve problems (documentation, googling, Stack Overflow and error stack traces to name a few).
+- Grounding in OOP, SOLID, TDD, MVC principles
+- Agile/XP philosophy
+- User stories, domain models, kanban boards
+- JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra
+- Jest, Jasmine, React Testing Library, RSpec, Capybara
+- Mentored two students from a later cohort.
 
 #### West Herts college (2004 - 2006)
 - PGDip Art-Direction/Copywriting (2005 - 2006)
   - Known as the 'Watford' course within adland, this exclusive course has been taught by the same inimitable tutor for the last 30 years and has had its alumni in the creative departments of most of London's top ad agencies for the last few decades. 
-- PGDip Advertising (2004 - 2005)
-  - The more general advertising course I did when I was still trying to work out what I wanted to do.
 
 #### University of Bristol (1998 - 2002)
 - Physics with Astrophysics MSci
