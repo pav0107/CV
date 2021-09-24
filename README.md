@@ -6,13 +6,13 @@ Hello. I’m a junior full stack developer looking to join a company whose produ
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
-## KEY PROJECTS
+<!-- ## KEY PROJECTS
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Key-J**            | A webapp to do help DJs, musicians and music enthusiasts find information about songs and compare them | React, Node, Express, Jest, React Testing Library, Puppeteer |
 | **Makers BnB** | An Airbnb clone | Ruby, RSpec              |
-| **Breakout** | A fun game from my childhood | HTML, CSS and JavaScript, but this was mostly about HTML Canvas |
+| **Breakout** | A fun game from my childhood | HTML, CSS and JavaScript, but this was mostly about HTML Canvas | -->
 
 ## CODE REVIEWS
 Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
