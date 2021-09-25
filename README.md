@@ -171,7 +171,7 @@ Hopefully something about Makers here as I should be in a position to pick up ne
 
 ## EDUCATION
 
-#### Makers Academy (June - Sep 2021)
+#### Makers (June - Sep 2021)
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
 <!-- - you might also mention aspects some other skills/knowledge listed below:  -->
 - 16-week coding bootcamp that has trained over 1700 people and have their alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, among others)
