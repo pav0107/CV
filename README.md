@@ -95,32 +95,17 @@ The following feedback was given after being set a tech test and having my proce
 
 ## WORK EXPERIENCE
 
-**Advertising Creative/Copywriter** (2006 - 2021)  
+### Advertising Creative/Copywriter (2006 - 2021)
 
-- As an advertising creative it was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers. 
-- During my career, I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams.
-- I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video.
-- I’ve worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
-- To produce the best work possible, I’ve collaborated with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
-- I’ve got experience in line-management, had autonomy over projects, worked out solutions to problems as they occurred, and managed my own schedule to make sure concurrent projects got completed on time. 
-- When I freelanced, I proactively approached clients to get work out for them.
-- For more information on my work, please view my [LinkedIn profile](https://www.linkedin.com/in/pav-rao-0a46453b/) as well as my [advertising portfolio website](https://www.pavt.co.uk/), where I've outlined the business problem I was given and my approach to solving it.  
-  
-**Stand-up comedy** (2011 onwards)  
+- **Problem-solving** was integral to being a successful advertising creative. It was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers.
+- **Adaptability** has also been a key feature, due to the breadth and depth of my career. I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams. I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video. I’ve also worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
+- **Collaboration** has been key in producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
 
-- I’ve gigged across the UK and in Europe to audiences of up to 400 people. 
-- In 2017 I was a semi-finalist in the BBC New Comedy Awards.
-  - You can see the set I did in the heats on my [stand-up site](http://pavrao.com/). 
-- In 2016 I won the Bath Comedy Festival’s New Act of the Year Competition.
-- I believe much of what I do in stand-up will help in my career as a software engineer: 
-  - Look at familiar things and situations from a fresh angle.
-  - Find unusual and surprising connections.
-  - Think on my feet.
-  - Not be afraid to try something that might fail, dust myself off, learn lessons, then try again.
-  - Keep in mind the bigger picture (narrative arc, in terms of stand-up) as well as the granular detail (specific word choices).
-  - Be able to take feedback (hopefully not given quite as brutally as by the audience in the nightclub I played in Bournemouth!).  
-  
-(_I've taken a bit of a break from stand-up to establish a career as a software engineer. If/when I do go back to it, it'll be just as a hobby_)
+### Stand-up comedy (2011 onwards)
+
+- **Resilience** has been important to the success I've had. In 2017 I was a semi-finalist in the BBC New Comedy Awards (You can see the set I did in the heats on my [stand-up site](http://pavrao.com/)). And in 2016 I won the Bath Comedy Festival’s New Act of the Year Competition. But I've also performed to near silence, and have even had people walk off. My successes are mostly down to not being afraid to try something that might fail, dusting myself off, learning lessons, then trying again.
+- **Public speaking** wasn't always a strong point. But I’ve gigged across the UK and in Europe to audiences of up to 400 people. And I've also gigged in front of small and hostile crowds too so, by comparison, it's difficult to get nervous about public speaking!
+- **Creativity** is at the heart of great stand-up. I look at familiar things and situations from a fresh angle. I find unusual and surprising connections. I think on my feet.
 
 
 
