@@ -2,9 +2,13 @@
 
 [KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-Hello. I’m a junior full stack developer looking to join a company whose products or services excite me, and where I feel I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I recently enjoyed at Makers, an intensive 16-week coding bootcamp.
+Hello. I’m a junior full stack developer looking to join a company whose products or services excite me, and where I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I recently enjoyed at Makers, an intensive 16-week coding bootcamp.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
+
+Success in those areas required strong problem-solving and communication skills: traits I'm sure will help me throughout my software engineering career.
+
+I was drawn to software engineering because I'm hugely excited by the potential of technology to change the lives of thousands, and indeed, millions of people. I'm a creative person so the possibility of dreaming up something, building it and then getting it out into the world is incredibly appealing.
 
 <!-- ## KEY PROJECTS
 
