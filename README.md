@@ -46,8 +46,8 @@
 
 - **Problem-solving** was integral to being a successful advertising creative. It was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers.
 - **Adaptability** has also been a key feature, due to the breadth and depth of my career. I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams. I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video. I’ve also worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
-- **Collaboration** has been key in producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients. 
-- **Communication** has played a central role in my advertising career. I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, depending on the audience and product or service. When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
+- **Collaboration** has been a core ingredient to producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients. 
+- **Communication** has played a central role in my advertising career. I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, based on the audience and product or service. When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
 
 ### Stand-up comedy (2011 onwards)
 
