@@ -229,6 +229,8 @@ The following feedback was given after being set a tech test and having my proce
   > "You vocalised yourself quite well. Your comments were audible and
   > you provided valid justifications for your steps. You gave a really good
   > insight as to what your thought process was as you were making decisions."
+</details>
+
 
 <br/>
 
