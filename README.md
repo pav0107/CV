@@ -6,13 +6,13 @@ Hello. I’m a recent graduate of Makers coding bootcamp, currently on the looko
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
-![HTML](https://github.com/pav0107/CV/blob/master/HTML5-48.png)
-![CSS](https://github.com/pav0107/CV/blob/master/CSS3-48.png)
-![JavaScript](https://github.com/pav0107/CV/blob/master/JS-48.png)
-![React](https://github.com/pav0107/CV/blob/master/React-48.png)
-![Node](https://github.com/pav0107/CV/blob/master/nodejs-48.png)
-![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-48.png)
-![Ruby on Rails](https://github.com/pav0107/CV/blob/master/Rails-48.png)
+![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)
+![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)
+![JavaScript](https://github.com/pav0107/CV/blob/master/JS-64.png)
+![React](https://github.com/pav0107/CV/blob/master/React-64.png)
+![Node](https://github.com/pav0107/CV/blob/master/nodejs-64.png)
+![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-64.png)
+![Ruby on Rails](https://github.com/pav0107/CV/blob/master/Rails-64.png)
 
 
 
