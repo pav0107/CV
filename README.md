@@ -4,18 +4,22 @@
 
 <br/>
 
-Hello. I’m a recent graduate of Makers coding bootcamp, currently on the lookout for a junior front-end or full stack role. When I'm not applying for jobs, I'm building new projects, learning new skills and doing [coding challenges](https://www.codewars.com/users/pav0107).
-
-Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
+- Recent graduate of Makers coding bootcamp.
+- Looking for a junior front-end or full stack role.
+- Currently building new projects, learning new skills and doing [coding challenges](https://www.codewars.com/users/pav0107).
+- Previous career as an advertising creative/copywriter.
+- Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
+- Graduated with a degree in Physics with Astrophysics MSci.
+ 
 <br/>
 <br/>
 
-![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)
-![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)
-![JavaScript](https://github.com/pav0107/CV/blob/master/JS-64.png)
-![React](https://github.com/pav0107/CV/blob/master/React-64.png)
-![Node](https://github.com/pav0107/CV/blob/master/nodejs-64.png)
-![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-64.png)
+![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://github.com/pav0107/CV/blob/master/JS-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://github.com/pav0107/CV/blob/master/React-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node](https://github.com/pav0107/CV/blob/master/nodejs-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Ruby on Rails](https://github.com/pav0107/CV/blob/master/Rails-64.png)
 
 <br/>
