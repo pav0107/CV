@@ -6,6 +6,8 @@ Hello. I’m a recent graduate of Makers coding bootcamp, currently on the looko
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
+![React](https://github.com/pav0107/CV/blob/master/React-48.png)
+
 
 ## KEY PROJECTS
 
