@@ -6,7 +6,7 @@
 
 - Recent graduate of Makers coding bootcamp.
 - Looking for a junior front-end or full stack role.
-- Currently building new projects, learning new skills and doing [coding challenges](https://www.codewars.com/users/pav0107).
+- Currently building new projects, learning new skills and doing coding challenges (currently 4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
 - Previous career as an advertising creative/copywriter.
 - Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
 - Graduated with a degree in Physics with Astrophysics MSci.
@@ -14,8 +14,8 @@
 <br/>
 <br/>
 
-![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)&nbsp;
+![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)&nbsp;
 ![JavaScript](https://github.com/pav0107/CV/blob/master/JS-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
 ![React](https://github.com/pav0107/CV/blob/master/React-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Node](https://github.com/pav0107/CV/blob/master/nodejs-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
