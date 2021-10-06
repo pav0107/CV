@@ -40,13 +40,14 @@
 
 <br/>
 
-## WORK EXPERIENCE
+## WORK EXPERIENCE AND SKILLS
 
 ### Advertising Creative/Copywriter (2006 - 2021)
 
 - **Problem-solving** was integral to being a successful advertising creative. It was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers.
 - **Adaptability** has also been a key feature, due to the breadth and depth of my career. I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams. I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video. I’ve also worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
-- **Collaboration** has been key in producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients.
+- **Collaboration** has been key in producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients. 
+- **Communication** has played a central role in my advertising career. I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, depending on the audience and product or service. When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
 
 ### Stand-up comedy (2011 onwards)
 
@@ -57,25 +58,7 @@
 
 <br/>
 
-## SKILLS
-
-#### Problem-solving
-
-My academic background in maths and physics, combined with my careers as an advertising creative and stand-up comedian means I've spent the last 25 years knee-deep in problem-solving. 
-
-An example is a piece I worked on for a pharmaceutical client who had a stand at 2013's ESC (European Society of Cardiology) Congress, regarded as the world’s premier conference specialising in the science, management and prevention of cardiovascular disease.
-
-The brief was to create posters that went along a walkway to advertise the stand. I believe that one of the key aspects of problem-solving is being clear about what are facts, and what are assumptions. I made the case that the main problem with what we were being asked was that it was going to be almost impossible to get people's attention when they were busily trying to get around.
-
-I felt the facts were that we needed to advertise the stand and that the space that was bought was along the walkway; the assumption was that we had to produce static posters. I thought a better idea, to solve our key hurdle, was to use live illustration. I pushed quite hard for this concept, which eventually led to four artists creating a 60m-long illustration, live over the course of the four-day event, captured [here](https://www.pavt.co.uk/Healthcare).
-
-#### Communication
-
-Throughout my career in advertising I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, depending on the audience and product or service.
-
-It's impossible to produce great work without a solid working relationship with your colleagues and boss. I've been lucky enough to have worked with some truly brilliant people in my time and it's such a joy to help create work that's better than what any one person could have brought to the table.
-
-When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
+<!-- ## SKILLS
 
 #### Adaptability
 
@@ -105,7 +88,7 @@ In both advertising and stand-up everything started with the big idea. I knew th
 
 Hopefully something about Makers here as I should be in a position to pick up new tech quickly. -->
 
-<br/>
+<br/> -->
 
 ## EDUCATION
 
