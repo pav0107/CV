@@ -2,9 +2,13 @@
 
 [KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
+<br/>
+
 Hello. I’m a recent graduate of Makers coding bootcamp, currently on the lookout for a junior front-end or full stack role. When I'm not applying for jobs, I'm building new projects, learning new skills and doing [coding challenges](https://www.codewars.com/users/pav0107).
 
-Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
+Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
+<br/>
+<br/>
 
 ![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)
 ![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)
@@ -14,7 +18,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, en
 ![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-64.png)
 ![Ruby on Rails](https://github.com/pav0107/CV/blob/master/Rails-64.png)
 
-
+<br/>
 
 ## KEY PROJECTS
 
@@ -27,6 +31,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, en
 <!-- | **Chitter** | An Twitter clone | Ruby, RSpec or JavaScript and Jasmine      | -->
 
 
+<br/>
 
 ## WORK EXPERIENCE
 
@@ -43,6 +48,7 @@ Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, en
 - **Creativity** is at the heart of great stand-up. I look at familiar things and situations from a fresh angle. I find unusual and surprising connections. I think on my feet.
 
 
+<br/>
 
 ## SKILLS
 
@@ -92,6 +98,7 @@ In both advertising and stand-up everything started with the big idea. I knew th
 
 Hopefully something about Makers here as I should be in a position to pick up new tech quickly. -->
 
+<br/>
 
 ## EDUCATION
 
@@ -116,6 +123,8 @@ Hopefully something about Makers here as I should be in a position to pick up ne
 #### University of Bristol (1998 - 2002)
 - Physics with Astrophysics MSci
 
+<br/>
+
 ## REFERENCES
 
 #### Character reference: ####
@@ -137,6 +146,8 @@ _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
 >“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
+
+<br/>
 
 ## CODE REVIEWS
 Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
@@ -210,6 +221,8 @@ The following feedback was given after being set a tech test and having my proce
 > "You vocalised yourself quite well. Your comments were audible and
 > you provided valid justifications for your steps. You gave a really good
 > insight as to what your thought process was as you were making decisions."
+
+<br/>
 
 ## LINKS
 
