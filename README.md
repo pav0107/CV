@@ -140,7 +140,9 @@ Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independ
 The following feedback was given after being set a tech test and having my process observed for 45 mins.
 <details>
   <summary>Click here to view</summary>
-
+ 
+  </br>
+  
   **On following TDD:**
 
   > "You have based your tests on behaviours in order to keep your code
