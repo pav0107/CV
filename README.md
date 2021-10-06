@@ -2,7 +2,7 @@
 
 [KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-Hello. I’m a recent graduate of Makers coding bootcamp, currently on the lookout for a junior front-end or full stack role. When I'm not applying for jobs, I'm building new projects, learning new skills and doing coding challenges.
+Hello. I’m a recent graduate of Makers coding bootcamp, currently on the lookout for a junior front-end or full stack role. When I'm not applying for jobs, I'm building new projects, learning new skills and doing [coding challenges](https://www.codewars.com/users/pav0107).
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
