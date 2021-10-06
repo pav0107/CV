@@ -113,14 +113,17 @@ In both advertising and stand-up everything started with the big idea. I knew th
 
 ## REFERENCES
 
-#### Character reference: ####
+<details>
+  <summary>Character reference</summary>
 
 > “I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great problem solver and communicator, all of which are ideal attributes for a software developer.”  
 > _Jonathan del Strother, Audioboom CTO_
+ 
+</details>
 
-
-#### Professional references from my career as an advertising creative/copywriter ([see them on LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)): ####
-
+<details>
+  <summary>Professional references from my career as an advertising creative/copywriter</summary>
+ 
 > “Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”  
 _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
@@ -132,10 +135,17 @@ _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
 >“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
+ 
+[See them on LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
+ 
+</details>
+
+
 
 <br/>
 
 ## CODE REVIEWS
+
 Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
 The following feedback was given after being set a tech test and having my process observed for 45 mins.
 <details>
