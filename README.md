@@ -2,94 +2,20 @@
 
 [KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
 
-Hello. I’m a junior full stack developer looking to join a company whose products or services excite me, and where I can make a valuable contribution to the team. I also want to be somewhere that will allow me to continue the steep learning curve I recently enjoyed at Makers, an intensive 16-week coding bootcamp.
+Hello. I’m a recent graduate of Makers coding bootcamp, currently on the lookout for a junior front-end or full stack role.
 
 Prior to Makers, I graduated with a degree in Physics with Astrophysics MSci, enjoyed a career as an advertising creative/copywriter and performed stand-up comedy to audiences of up to 400 people in places such as London, Manchester, Edinburgh, Vienna and Budapest.
 
-Success in those areas required strong problem-solving and communication skills: traits I'm sure will help me throughout my software engineering career.
 
-I was drawn to software engineering because I'm hugely excited by the potential of technology to change the lives of thousands, and indeed, millions of people. I'm a creative person so the possibility of dreaming up something, building it and then getting it out into the world is incredibly appealing.
-
-<!-- ## KEY PROJECTS
+## KEY PROJECTS
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Key-J**            | A webapp to do help DJs, musicians and music enthusiasts find information about songs and compare them | React, Node, Express, Jest, React Testing Library, Puppeteer |
-| **Makers BnB** | An Airbnb clone | Ruby, RSpec              |
-| **Breakout** | A fun game from my childhood | HTML, CSS and JavaScript, but this was mostly about HTML Canvas | -->
-
-## CODE REVIEWS
-Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
-The following feedback was given after being set a tech test and having my process observed for 45 mins.
-
-**On following TDD:**
-
-> "You have based your tests on behaviours in order to keep your code
-> properly decoupled from the tests and this also meant that the tests were
-> client-oriented with the acceptance criteria properly encoded in the
-> algorithm."
-
-> "Your test progression made logical sense and you used it in order to make
-> incremental transformations to the code so that with each specific test, the
-> solution becomes more general."
-
-**On programming fluently:**
-
-> "You are very fluent with Ruby and RSpec syntax and language
-> constructs. You are also aware of built-in methods in Ruby and how to use them
-> correctly."
-
-**On debugging:**
-
-> "You have read failing test messages carefully and used the
-> information from RSpec’s failing tests well to determine what could be causing
-> problems and this helped you to make well-informed changes to fix bugs."
-
-> "You allowed yourself to look up documentation quickly when you
-> were not sure of syntax which allowed you to make efficient use of your
-> resources."
-
-**On modelling:**
-
-> "You chose to model your solution as a single method in a class. This
-> was a simple enough place to start and this allowed for enough functionality
-> to handle the entire problem, without over-engineering the solution. This
-> meant that you could extract methods as and when needed to adhere to the
-> single-responsibility principle."
-
-> "Your algorithm made logical sense and you were making great progress through
-> the exercise."
-
-**On having a methodical approach to solving problems:**
-
-> "You adhered to the red-green-refactor cycle by maintaining a
-> behaviour-first approach. You also prioritised the core and simpler cases over
-> the edge cases and more complex scenarios, allowing you to provide the client
-> with immediate value. Your tests also progressed logically, giving your
-> development cycle a sensible direction."
-
-> "You used research really well in your development process so that
-> you were able to avoid adding unnecessary bugs to the code."
-
-**On using an agile development process:**
-
-> You have clarified well what the requirements are for the system and
-> asked good questions about the main requirements and some common edge cases."
-
-**On writing code that's easy to change:**
-
-> "You are once again using Git commits regularly when tests pass which
-> ensures that you take advantage of having previous working versions to fall
-> back on."
-
-> "Your tests are again sufficiently decoupled from the code by making use of
-> tests based on the overall behaviours as were discussed by the client."
-
-**On justifying the way I work:**
-
-> "You vocalised yourself quite well. Your comments were audible and
-> you provided valid justifications for your steps. You gave a really good
-> insight as to what your thought process was as you were making decisions."
+| **[Key-J](https://key-j-app.herokuapp.com/)**            | A webapp to do help DJs, musicians and music enthusiasts find information about songs and compare them | React, Node, Express, Jest, React Testing Library, Puppeteer |
+| **[Breakout](https://pav0107.github.io/breakout-game/)** | A fun game from my childhood | HTML, CSS and JavaScript, but this was mostly about HTML Canvas |
+| **[Pig](https://pav0107.github.io/pig-dice-game-/)** | A two-player dicegame | HTML, CSS and JavaScript, mostly focusing on DOM manipulation |
+<!-- | **Makers BnB** | An Airbnb clone | Ruby, RSpec              | -->
+<!-- | **Chitter** | An Twitter clone | Ruby, RSpec or JavaScript and Jasmine      | -->
 
 
 
@@ -202,6 +128,79 @@ _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
 
 >“Pav is smart, ideas-oriented and easy to work with. He has a calmness about him that I have really valued, especially when things are busy. He's interested in the world around him, which makes a difference in a copywriter, works hard and is a gracious team member.”  
 _Karin Weatherup, Supporter insight digger and creative director - fundraising_
+
+## CODE REVIEWS
+Makers partners with [CoGrammar](https://www.cogrammar.com/) to provide independent, external code reviews.
+The following feedback was given after being set a tech test and having my process observed for 45 mins.
+
+**On following TDD:**
+
+> "You have based your tests on behaviours in order to keep your code
+> properly decoupled from the tests and this also meant that the tests were
+> client-oriented with the acceptance criteria properly encoded in the
+> algorithm."
+
+> "Your test progression made logical sense and you used it in order to make
+> incremental transformations to the code so that with each specific test, the
+> solution becomes more general."
+
+**On programming fluently:**
+
+> "You are very fluent with Ruby and RSpec syntax and language
+> constructs. You are also aware of built-in methods in Ruby and how to use them
+> correctly."
+
+**On debugging:**
+
+> "You have read failing test messages carefully and used the
+> information from RSpec’s failing tests well to determine what could be causing
+> problems and this helped you to make well-informed changes to fix bugs."
+
+> "You allowed yourself to look up documentation quickly when you
+> were not sure of syntax which allowed you to make efficient use of your
+> resources."
+
+**On modelling:**
+
+> "You chose to model your solution as a single method in a class. This
+> was a simple enough place to start and this allowed for enough functionality
+> to handle the entire problem, without over-engineering the solution. This
+> meant that you could extract methods as and when needed to adhere to the
+> single-responsibility principle."
+
+> "Your algorithm made logical sense and you were making great progress through
+> the exercise."
+
+**On having a methodical approach to solving problems:**
+
+> "You adhered to the red-green-refactor cycle by maintaining a
+> behaviour-first approach. You also prioritised the core and simpler cases over
+> the edge cases and more complex scenarios, allowing you to provide the client
+> with immediate value. Your tests also progressed logically, giving your
+> development cycle a sensible direction."
+
+> "You used research really well in your development process so that
+> you were able to avoid adding unnecessary bugs to the code."
+
+**On using an agile development process:**
+
+> You have clarified well what the requirements are for the system and
+> asked good questions about the main requirements and some common edge cases."
+
+**On writing code that's easy to change:**
+
+> "You are once again using Git commits regularly when tests pass which
+> ensures that you take advantage of having previous working versions to fall
+> back on."
+
+> "Your tests are again sufficiently decoupled from the code by making use of
+> tests based on the overall behaviours as were discussed by the client."
+
+**On justifying the way I work:**
+
+> "You vocalised yourself quite well. Your comments were audible and
+> you provided valid justifications for your steps. You gave a really good
+> insight as to what your thought process was as you were making decisions."
 
 ## LINKS
 
