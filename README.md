@@ -21,6 +21,7 @@
 <img src="https://github.com/pav0107/CV/blob/master/node.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/pav0107/CV/blob/master/Ruby.svg" width="64">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/pav0107/CV/blob/master/rails.svg" width="128">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/psql.svg" width="64">&nbsp;&nbsp;&nbsp;
 
 <br/>
 
