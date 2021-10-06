@@ -14,13 +14,13 @@
 <br/>
 <br/>
 
-![HTML](https://github.com/pav0107/CV/blob/master/HTML5-64.png)&nbsp;
-![CSS](https://github.com/pav0107/CV/blob/master/CSS3-64.png)&nbsp;
-![JavaScript](https://github.com/pav0107/CV/blob/master/JS-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![React](https://github.com/pav0107/CV/blob/master/React-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![Node](https://github.com/pav0107/CV/blob/master/nodejs-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![Ruby](https://github.com/pav0107/CV/blob/master/Ruby-64.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![Ruby on Rails](https://github.com/pav0107/CV/blob/master/Rails-64.png)
+<img src="https://github.com/pav0107/CV/blob/master/HTML5.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/CSS.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/JS.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/React.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/node.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/Ruby.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/pav0107/CV/blob/master/rails.svg" width="128">&nbsp;&nbsp;&nbsp;
 
 <br/>
 
