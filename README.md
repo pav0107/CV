@@ -89,18 +89,12 @@ In both advertising and stand-up everything started with the big idea. I knew th
 ## EDUCATION
 
 #### Makers (June - Sep 2021)
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above) -->
-<!-- - you might also mention aspects some other skills/knowledge listed below:  -->
 - 16-week coding bootcamp that has trained over 1700 people and have their alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, among others)
 - The course creates flexible and responsive engineers who can adapt and pick up new tech quickly.
-- There's extenstive use of both pair and mob-programming to solve problems.
-- I used a myriad of different techniques to solve problems (documentation, googling, Stack Overflow and error stack traces to name a few).
-- Grounding in OOP, SOLID, TDD, MVC principles
-- Agile/XP philosophy
-- User stories, domain models, kanban boards
-- JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra
-- Jest, Jasmine, React Testing Library, RSpec, Capybara
-- Mentored two students from a later cohort.
+- Extenstive use of both pair and mob-programming, and Agile to solve problems and complete projects.
+- Grounding in princples of OOP, SOLID, TDD and MVC.
+- JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Jest, Jasmine, React Testing Library, RSpec and Capybara.
+- Mentoring two students from a later cohort.
 
 #### West Herts college (2004 - 2006)
 - PGDip Art-Direction/Copywriting (2005 - 2006)
