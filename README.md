@@ -91,8 +91,8 @@ In both advertising and stand-up everything started with the big idea. I knew th
 #### Makers (June - Sep 2021)
 - 16-week coding bootcamp that has trained over 1700 people and have their alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, among others)
 - The course creates flexible and responsive engineers who can adapt and pick up new tech quickly.
-- Extenstive use of both pair and mob-programming, and Agile to solve problems and complete projects.
-- Grounding in princples of OOP, SOLID, TDD and MVC.
+- Extensive use of both pair and mob-programming, and Agile to solve problems and complete projects.
+- Grounding in principles of OOP, SOLID, TDD and MVC.
 - JavaScript, React, Node, Express, Ruby, Ruby on Rails, HTML, CSS, SQL, Sinatra, Jest, Jasmine, React Testing Library, RSpec and Capybara.
 - Mentoring two students from a later cohort.
 
