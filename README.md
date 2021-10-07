@@ -32,8 +32,7 @@
 | **[Key-J](https://key-j-app.herokuapp.com/)**            | A web app to help DJs, musicians and music enthusiasts find information about songs and compare them. | React, Node, Express, Jest, React Testing Library, Puppeteer and Spotify API. |
 | **[Breakout](https://pav0107.github.io/breakout-game/)** | A fun game from my childhood. | HTML, CSS and JavaScript, but this was mostly about HTML Canvas. |
 | **[Pig](https://pav0107.github.io/pig-dice-game-/)** | A two-player dice game. | HTML, CSS and JavaScript, mostly focusing on DOM manipulation. |
-| **[NoteKeeper](https://dramatic-flavor.surge.sh/)** | A note-taking app. | HTML, CSS, JavaScript and Jasmine. |
-
+<!-- | **[NoteKeeper](https://dramatic-flavor.surge.sh/)** | A note-taking app. | HTML, CSS, JavaScript and Jasmine. | -->
 <!-- | **Makers BnB** | An Airbnb clone | Ruby, RSpec              | -->
 <!-- | **Chitter** | An Twitter clone | Ruby, RSpec or JavaScript and Jasmine      | -->
 
