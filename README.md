@@ -14,14 +14,14 @@
 <br/>
 <br/>
 
-<img src="https://github.com/pav0107/CV/blob/master/HTML5.svg" width="48">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/CSS.svg" width="48">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/JS.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/React.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/node.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/Ruby.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/rails.svg" width="128">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/pav0107/CV/blob/master/psql.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="https://github.com/pav0107/CV/blob/master/HTML5.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="https://github.com/pav0107/CV/blob/master/CSS.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" src="https://github.com/pav0107/CV/blob/master/JS.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img alt="React" src="https://github.com/pav0107/CV/blob/master/React.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img alt="Node.js" src="https://github.com/pav0107/CV/blob/master/node.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="Ruby" src="https://github.com/pav0107/CV/blob/master/Ruby.svg" width="64">&nbsp;&nbsp;&nbsp;
+<img alt="Ruby on Rails" src="https://github.com/pav0107/CV/blob/master/rails.svg" width="128">&nbsp;&nbsp;&nbsp;
+<img alt="Postgres" src="https://github.com/pav0107/CV/blob/master/psql.svg" width="64">&nbsp;&nbsp;&nbsp;
 
 <br/>
 
