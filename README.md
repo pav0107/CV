@@ -52,7 +52,7 @@
 
 - **Resilience** has been important to the success I've had. In 2017 I was a semi-finalist in the BBC New Comedy Awards (You can see the set I did in the heats on my [stand-up site](http://pavrao.com/)). And in 2016 I won the Bath Comedy Festival’s New Act of the Year Competition. But I've also performed to near silence, and have even had people walk off. My successes are mostly down to not being afraid to try something that might fail, dusting myself off, learning lessons, then trying again.
 - **Public speaking** wasn't always a strong point. But I’ve gigged across the UK and in Europe to audiences of up to 400 people. And I've also played to small and hostile crowds too so, by comparison, it's difficult to get nervous about public speaking!
-- **Creativity** is at the heart of great stand-up. I look at familiar things and situations from a fresh angle. I find unusual and surprising connections. I think on my feet.
+- **Creativity** is at the heart of great stand-up. I look at familiar things and situations from a fresh angle, I find unusual and surprising connections, and I think on my feet.
 
 
 <br/>
