@@ -1,6 +1,6 @@
 # PAV RAO (he/him) – CV
 
-[KEY PROJECTS](https://github.com/pav0107/CV#Projects) | [WORK EXPERIENCE AND SKILLS](https://github.com/pav0107/CV#Work-Experience) | [SKILLS](https://github.com/pav0107/CV#Skills) | [EDUCATION](https://github.com/pav0107/CV#Education) | [REFERENCES](https://github.com/pav0107/CV#References) | [LINKS](https://github.com/pav0107/CV#Links)
+[KEY PROJECTS](https://github.com/pav0107/CV/edit/master/README.md#Key\ Projects) | [WORK EXPERIENCE AND SKILLS](https://github.com/pav0107/CV/edit/master/README.md#Work-Experience) | [SKILLS](https://github.com/pav0107/CV/edit/master/README.md#Skills) | [EDUCATION](https://github.com/pav0107/CV/edit/master/README.md#Education) | [REFERENCES](https://github.com/pav0107/CV/edit/master/README.md#References) | [LINKS](https://github.com/pav0107/CV/edit/master/README.md#Links)
 
 <br/>
 
