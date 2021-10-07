@@ -88,7 +88,7 @@ In both advertising and stand-up everything started with the big idea. I knew th
 ## EDUCATION
 
 #### Makers (June - Sep 2021)
-- 16-week coding bootcamp that has trained over 1700 people and have their alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, among others)
+- 16-week coding bootcamp that has trained over 1700 people and have alumni in London's top technology companies (Deliveroo, British Gas, Starling Bank, Financial Times, Compare The Market.com, Tesco, amongst others).
 - The course creates flexible and responsive engineers who can adapt and pick up new tech quickly.
 - Extensive use of both pair and mob-programming, and Agile to solve problems and complete projects.
 - Grounding in principles of OOP, SOLID, TDD and MVC.
@@ -108,6 +108,8 @@ In both advertising and stand-up everything started with the big idea. I knew th
 
 <details>
   <summary>Character reference</summary>
+ 
+ </br>
 
 > “I have known Pav for over 25 years, and he has always impressed with his analytical mind & sense of humour. He is creative, a great problem solver and communicator, all of which are ideal attributes for a software developer.”  
 > _Jonathan del Strother, Audioboom CTO_
@@ -116,6 +118,8 @@ In both advertising and stand-up everything started with the big idea. I knew th
 
 <details>
   <summary>Professional references from my career as an advertising creative/copywriter</summary>
+ 
+ </br>
  
 > “Working with Pav was fantastic - we are only a small charity and the pro-bono help that he has given us has been wonderful. He listened to our thoughts and creatively incorporated them into his suggestions. He has also stayed with us, volunteering his time, throughout a daunting process of taking the creatives through to reality. Thanks Pav!”  
 _Julia Lalla-Maharajh OBE, Founder of Orchid Project_
