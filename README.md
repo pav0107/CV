@@ -4,12 +4,12 @@
 
 <br/>
 
-- Recent graduate of Makers coding bootcamp.
-- Looking for a junior front-end or full-stack role.
-- Currently building new projects, learning new skills and doing coding challenges (4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
-- Former Advertising Creative/Copywriter.
-- Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
-- Graduated with a degree in Physics with Astrophysics.
+- I recently graduated from Makers coding bootcamp.
+- I'm on the lookout for a junior front-end or full-stack role.
+- Most of my time is spent building new projects, learning new skills and doing coding challenges (4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
+- Previously, I was an Advertising Creative/Copywriter.
+- I've performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
+- I have a degree in Physics with Astrophysics.
  
 <br/>
 <br/>
@@ -44,7 +44,7 @@
 ### Advertising Creative/Copywriter (2006 - 2021)
 
 - **Problem-solving** was integral to being a successful advertising creative. It was my job to find creative solutions to business problems, looking for unusual connections to grab attention and resonate with consumers.
-- **Adaptability** has also been a key feature, due to the breadth and depth of my career. I’ve had both permanent and freelance roles at big London ad agencies, design studios, branding agencies, fundraising agencies and in-house creative teams. I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video. I’ve also worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
+- **Adaptability** has also been a key feature, due to the breadth and depth of my career. I’ve had both permanent and freelance roles at big London advertising agencies, design studios, branding agencies, fundraising agencies and in-house creative teams. I have experience in TV, posters, press, digital, documentary film, T-shirts, leaflets, events, letters, radio and video. I’ve also worked with clients ranging in size from individuals to large multinationals, such as Nokia and Honda.
 - **Collaboration** has been a core ingredient to producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients. 
 - **Communication** has played a central role in my advertising career. I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, based on the audience and product or service. When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
 
