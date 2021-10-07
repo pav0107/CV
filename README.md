@@ -6,7 +6,7 @@
 
 - Recent graduate of Makers coding bootcamp.
 - Looking for a junior front-end or full-stack role.
-- Currently building new projects, learning new skills and doing coding challenges (currently 4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
+- Building new projects, learning new skills and doing coding challenges (currently 4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
 - Former Advertising Creative/Copywriter.
 - Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
 - Graduated with a degree in Physics with Astrophysics MSci.
