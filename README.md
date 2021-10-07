@@ -225,7 +225,7 @@ The following feedback was given after being set a tech test and having my proce
 
 ## LINKS
 
-- [LinkedIn](https://www.linkedin.com/in/pav-rao-0a46453b/)
+- [LinkedIn](https://www.linkedin.com/in/pav-rao/)
 - [Software engineer portfolio](http://pavrao.io/)
 - [Advertising Creative/Copywriter portfolio](https://www.pavt.co.uk/)
 - [Stand-up website](http://pavrao.com/)
