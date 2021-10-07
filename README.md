@@ -9,7 +9,7 @@
 - Currently building new projects, learning new skills and doing coding challenges (4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
 - Former Advertising Creative/Copywriter.
 - Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
-- Graduated with a degree in Physics with Astrophysics MSci.
+- Graduated with a degree in Physics with Astrophysics.
  
 <br/>
 <br/>
