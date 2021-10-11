@@ -5,7 +5,7 @@
 <br/>
 
 - Recent graduate from Makers coding bootcamp.
-- On the lookout for a junior front-end or full-stack software engineering roles.
+- On the lookout for a junior front-end or full-stack software engineering role.
 - Currently building new projects, learning new skills and doing coding challenges (4 kyu on Codewars). 
 - Former Advertising Creative/Copywriter.
 - Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
