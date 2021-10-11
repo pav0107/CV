@@ -4,12 +4,13 @@
 
 <br/>
 
-- I recently graduated from Makers coding bootcamp.
-- I'm on the lookout for a junior front-end or full-stack role.
-- Most of my time is spent building new projects, learning new skills and doing coding challenges (4 kyu on [Codewars](https://www.codewars.com/users/pav0107)).
-- Previously, I was an Advertising Creative/Copywriter.
-- I've performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
-- I have a degree in Physics with Astrophysics.
+- Recent graduate from Makers coding bootcamp.
+- On the lookout for a junior front-end or full-stack software engineering roles.
+- Currently building new projects, learning new skills and doing coding challenges (4 kyu on Codewars). 
+- Former Advertising Creative/Copywriter.
+- Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
+- Graduated with a degree in Physics with Astrophysics.
+
  
 <br/>
 <br/>
