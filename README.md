@@ -49,7 +49,7 @@
 - **Collaboration** has been a core ingredient to producing the best work possible. I’ve worked closely with creative directors, designers, typographers, photographers, illustrators, animators, film directors, account handlers, project managers and clients. 
 - **Communication** has played a central role in my advertising career. I've engaged with, presented to, and sold in ideas to clients. And as is the nature of the business, I've had to think long and hard about the language and tone of voice I use, based on the audience and product or service. When I worked at Macmillan Cancer Support, I presented workshops on copywriting and co-presented workshops on branding, consistently receiving excellent feedback.
 
-### Stand-up comedy (2011 onwards)
+### Stand-up comedian (2011 onwards)
 
 - **Resilience** has been important to the success I've had. In 2017 I was a semi-finalist in the BBC New Comedy Awards (You can see the set I did in the heats on my [stand-up site](http://pavrao.com/)). And in 2016 I won the Bath Comedy Festival’s New Act of the Year Competition. But I've also performed to near silence, and have even had people walk off. My successes are mostly down to not being afraid to try something that might fail, dusting myself off, learning lessons, then trying again.
 - **Public speaking** wasn't always a strong point. But I’ve gigged across the UK and in Europe to audiences of up to 400 people. And I've also played to small and hostile crowds too so, by comparison, it's difficult to get nervous about public speaking!
