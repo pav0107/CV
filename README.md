@@ -42,7 +42,7 @@
 ## WORK EXPERIENCE AND SKILLS
 
 ### Mumsnet (2021 to present)
-– I've just started my first developer role, working on the TALL stack (Tailwind, Alpine.js, Laravel and Livewire).
+- I've just started my first developer role, working on the TALL stack (Tailwind, Alpine.js, Laravel and Livewire).
 
 ### Advertising Creative/Copywriter (2006 - 2021)
 
