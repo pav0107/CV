@@ -4,24 +4,12 @@
 
 <br/>
 
-- Full-Stack Developer at Mumsnet
+- Full-Stack Developer at Mumsnet (Laravel, Tailwind CSS, Alpine.js, Livewire, MySQL and phpunit)
+- Experience with JavaScript, React, Next.js, HTML, and CSS and have also used Ruby, Ruby on Rails, Node, Express, Sinatra, Capybara, Jest, Jasmine, React Testing Library, RSpec, and data structures and algorithms.
 - Recent graduate from Makers coding bootcamp.
 - Former Advertising Creative/Copywriter.
 - Performed stand-up comedy across the UK and in Europe to audiences of up to 400 people.
 - Graduated with a degree in Physics with Astrophysics.
-
- 
-<br/>
-<br/>
-
-<img alt="HTML" src="https://github.com/pav0107/CV/blob/master/HTML5.svg" width="48">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="https://github.com/pav0107/CV/blob/master/CSS.svg" width="48">&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" src="https://github.com/pav0107/CV/blob/master/JS.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img alt="React" src="https://github.com/pav0107/CV/blob/master/React.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img alt="Node.js" src="https://github.com/pav0107/CV/blob/master/node.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="Ruby" src="https://github.com/pav0107/CV/blob/master/Ruby.svg" width="64">&nbsp;&nbsp;&nbsp;
-<img alt="Ruby on Rails" src="https://github.com/pav0107/CV/blob/master/rails.svg" width="128">&nbsp;&nbsp;&nbsp;
-<img alt="Postgres" src="https://github.com/pav0107/CV/blob/master/psql.svg" width="64">&nbsp;&nbsp;&nbsp;
 
 <br/>
 
@@ -29,12 +17,10 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[Hulu Clone](https://hulu-clone-delta-peach.vercel.app/)**            | A light clone of Hulu. | Next.js, the TMDB (The Movie Database) API and Tailwind CSS. |
+| **[Recipe App](https://pav0107.github.io/Recipes/)**            | App where users can search for recipes, select from particular cuisines and see the instructions and ingredients needed to make a dish. | React Hooks, the Spoonacular API and styled components. |
 | **[Key-J](https://key-j-app.herokuapp.com/)**            | A web app to help DJs, musicians and music enthusiasts find information about songs and compare them. | React, Node, Express, Jest, React Testing Library, Puppeteer and Spotify API. |
 | **[Breakout](https://pav0107.github.io/breakout-game/)** | A fun game from my childhood that involves bouncing a ball off a paddle against bricks to make them disappear. | HTML, CSS and JavaScript, but this was mostly about HTML Canvas. |
-| **[Pig](https://pav0107.github.io/pig-dice-game-/)** | A two-player dice game that tests your appetite for risk! | HTML, CSS and JavaScript, mostly focusing on DOM manipulation. |
-<!-- | **[NoteKeeper](https://dramatic-flavor.surge.sh/)** | A note-taking app. | HTML, CSS, JavaScript and Jasmine. | -->
-<!-- | **Makers BnB** | An Airbnb clone | Ruby, RSpec              | -->
-<!-- | **Chitter** | An Twitter clone | Ruby, RSpec or JavaScript and Jasmine      | -->
 
 
 <br/>
