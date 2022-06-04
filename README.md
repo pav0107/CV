@@ -30,8 +30,7 @@
 ### Mumsnet (2021 to present)
 - Mumsnet is the UK’s largest network for parents, with around 8 million unique visitors per month clocking up over 100 million page views.
 - First developer role, involving a tech stack that was completely new to me: Laravel, Tailwind CSS, Alpine.js, Livewire and MySQL.
-- - First developer job, involving a tech stack that was completely new to me: Laravel, Tailwind CSS, Alpine.js, Livewire and MySQL.
-- First few months mostly involved learning the stack and pair-programming.
+- The initial few months mostly involved learning the stack and pair-programming.
 - Since those initial few months, a typical day involves picking up tickets from the backlog on Trello, liaising with Product Managers and doing the work solo where I can, but asking for help or pairing when I need guidance.
 - Worked on new features, fixing bugs and optimisations to the code base, both front-end and back-end
 - A few new features I worked on:
