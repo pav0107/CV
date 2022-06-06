@@ -17,7 +17,7 @@
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Hulu Clone](https://hulu-clone-delta-peach.vercel.app/)**            | A light clone of Hulu. | Next.js, the TMDB (The Movie Database) API and Tailwind CSS. |
+| **[Hulu Clone](https://hulu-clone-delta-peach.vercel.app/)**            | A light clone of streaming site, Hulu. | Next.js, the TMDB (The Movie Database) API and Tailwind CSS. |
 | **[Recipe App](https://pav0107.github.io/Recipes/)**            | App where users can search for recipes, select from particular cuisines and see the instructions and ingredients needed to make a dish. | React Hooks, the Spoonacular API and styled components. |
 | **[Key-J](https://key-j-app.herokuapp.com/)**            | A web app to help DJs, musicians and music enthusiasts find information about songs and compare them. | React, Node, Express, Jest, React Testing Library, Puppeteer and Spotify API. |
 | **[Breakout](https://pav0107.github.io/breakout-game/)** | A fun game from my childhood that involves bouncing a ball off a paddle against bricks to make them disappear. | HTML, CSS and JavaScript, but this was mostly about HTML Canvas. |
