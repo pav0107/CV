@@ -32,16 +32,7 @@
 - First developer role, involving a tech stack that was completely new to me: Laravel, Tailwind CSS, Alpine.js, Livewire and MySQL.
 - The initial few months mostly involved learning the stack and pair-programming.
 - Since then, a typical day involves picking up tickets from the backlog on Trello, liaising with Product Managers and doing the work solo where I can, but asking for help or pairing when I need guidance.
-- Working on new features, fixing bugs and optimisations to the code base, both front-end and back-end
-- A few new features I've worked on:
-    - Allowing users to create a thread for any topic from multiple places, rather than just the topic they are in. This work involved adding a dropdown and changing the URI.
-    - Adding new buttons for users to see threads updated in the last 24 hours.
-- A few bugs I’ve fixed:
-    - Fixing some broken links.
-    - Fixing overspilling texts for when users type longer words.
-- A few optimisations I’ve made:
-    - I noticed that certain identical messages that were seen by users were hard-coded throughout the code base. I created a ticket for this work, then had the message in one place and referenced it in others.
-    - Instead of refreshing the database for every test, I had the database lazily refresh in TestCase, which the other tests extend. This meant that we didn’t need to call for a database refresh and this also only happened if the tests touched the database, thereby speeding up the tests.
+- Working on new features, fixing bugs and optimisations to the code base, both front-end and back-end.
 
 
 ### Advertising Creative/Copywriter (2006 - 2021)
