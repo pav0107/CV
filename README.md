@@ -33,7 +33,7 @@
 - The initial few months mostly involved learning the stack and pair-programming.
 - Since those initial few months, a typical day involves picking up tickets from the backlog on Trello, liaising with Product Managers and doing the work solo where I can, but asking for help or pairing when I need guidance.
 - Working on new features, fixing bugs and optimisations to the code base, both front-end and back-end
-- A few new features I worked on:
+- A few new features I've worked on:
     - Allowing users to create a thread for any topic from multiple places, rather than just the topic they are in. This work involved adding a dropdown and changing the URI.
     - Adding new buttons for users to see threads updated in the last 24 hours.
 - A few bugs I’ve fixed:
